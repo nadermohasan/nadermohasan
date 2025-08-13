@@ -37,27 +37,9 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
 
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AhmedYaser-Mt&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AhmedYaser-Mt's GitHub stats" /> 
-      </td> 
-      <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedYaser-Mt&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
-      </td> 
-    </tr> 
-  </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYaser-Mt&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
-</div>
-
-
----
-
 <p align="center">
-  <img src="https://hits.sh/github.com/AhmedYaser-Mt.svg?label=Visitors&color=1f6feb&style=for-the-badge&extraCount=11" />
-  <img src="https://img.shields.io/github/followers/AhmedYaser-Mt?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://hits.sh/github.com/nadermohasan.svg?label=Visitors&color=1f6feb&style=for-the-badge&extraCount=11" />
+  <img src="https://img.shields.io/github/followers/nadermohasan?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
@@ -65,14 +47,11 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ### 📬 Contact Information
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
+  <a href="https://www.linkedin.com/in/nadermohasan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmed.yaser.mt@gmail.com">
+  <a href="mailto:nadermohasan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201014842264">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
