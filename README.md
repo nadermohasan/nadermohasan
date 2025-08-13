@@ -50,6 +50,8 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
   <a href="https://www.linkedin.com/in/nadermohasan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/nadermohasan">
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="mailto:nadermohasan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
