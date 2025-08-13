@@ -8,8 +8,8 @@
 
 <hr>
 
-### 👋 Hello! I'm **Ahmed Yasser Metwally**
-A student passionate about programming 🚀. Currently learning **C++** and using **Visual Studio** to build my skills 💻.  
+### 👋 Hello! I'm **Nader Mohamed**
+A graduated student passionate about programming 🚀. Currently learning **C++** and using **Visual Studio** to build my skills 💻.  
 Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ---
@@ -81,9 +81,9 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ```cpp
 // Focused on mastering the stack
-class AhmedYaserMt {
+class NaderMohamed {
 public:
-  string university = "Benha University";
+  string university = "The Islamic University of Gaza";
   string track = "Full Stack Developer";
   string passion = "Problem Solving & Building Projects";
   void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
