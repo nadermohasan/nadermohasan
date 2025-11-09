@@ -24,7 +24,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**.
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/nadermohasan/Project1-StonePaperScissors)
-- [Project 2 ( Banking System )]
+- [Project 2 ( Banking System )](https://github.com/nadermohasan/Project-2-Bank-System-)
 - [Project 3 ( ATM System )]
 
 ---
